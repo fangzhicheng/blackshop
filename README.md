@@ -1,1 +1,2 @@
 # blackshop
+BlackShop是一个用来曝光附近黑心商家的公益平台。
